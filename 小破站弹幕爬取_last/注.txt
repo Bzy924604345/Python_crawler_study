@@ -1,0 +1,2 @@
+本程序参考：
+https://github.com/SocialSisterYi/bilibili-API-collect/blob/bb437d2012e6291b38c78d42755db9d836d4975f/danmaku/danmaku_proto.md
